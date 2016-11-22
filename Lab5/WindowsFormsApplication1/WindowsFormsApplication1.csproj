@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dat.cs" />
+    <Compile Include="DatLinInt.cs" />
+    <Compile Include="DatLinIntZ.cs" />
+    <Compile Include="DatSpiInt.cs" />
+    <Compile Include="DatSpiIntZ.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
